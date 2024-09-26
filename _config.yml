@@ -1,5 +1,5 @@
 title: Lucien TITO
-#logo: /assets/img/moi.jpg
-#description: text below image
-#show_downloads: true
+logo: /assets/img/moi.jpg
+description: As a Computer Vision Engineer, I specialize in developing and implementing advanced algorithms that enable machines to interpret and understand visual information from the world. With a strong foundation in artificial intelligence and machine learning, I utilize techniques such as deep learning, convolutional neural networks (CNNs), and object detection frameworks like YOLO to create innovative solutions for various applications, including autonomous systems, medical imaging, and surveillance. My expertise extends to preprocessing image data, optimizing models for real-time performance, and deploying computer vision solutions that enhance user experiences and improve operational efficiencies. Passionate about leveraging technology to solve complex problems, I continuously seek to advance my knowledge in this rapidly evolving field while collaborating with cross-functional teams to ensure my projects align with organizational goals.
+show_downloads: true
 theme: jekyll-theme-minimal
