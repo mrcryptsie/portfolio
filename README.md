@@ -23,21 +23,21 @@
 
 Developed and fine-tuned a **YOLOv5** model for real-time object detection in various environments using **Python** and **PyTorch**. The project involved training on large datasets like COCO and PASCAL VOC, optimizing the model for speed and accuracy. The deployed solution successfully identified multiple object categories in real-time, with an average precision (AP) of 0.85. This model was implemented for surveillance and traffic monitoring systems, improving response times and safety measures.
 
-![YOLOv5 Object Detection](/assets/img/yolo_object_detection.jpeg)
+![YOLOv5 Object Detection](/assets/img/yolo_object_detection.jpg)
 
 ### Automated Defect Detection in Manufacturing Using CNNs
 [Publication](https://www.kaggle.com)
 
 Built a convolutional neural network (**CNN**) in **TensorFlow** to detect surface defects in manufacturing materials. The model was trained on a dataset of high-resolution images, achieving an accuracy of 92% in identifying various defect types. The project enabled manufacturers to automate quality control processes, reducing human error and improving production efficiency. This solution was applied in industries ranging from automotive to electronics.
 
-![Defect Detection](/assets/img/defect_detection.jpeg)
+![Defect Detection](/assets/img/defect_detection.jpg)
 
 ### Semantic Segmentation for Urban Scene Understanding
 [Publication](https://www.kaggle.com)
 
 Utilized **U-Net** and **Mask R-CNN** architectures to perform semantic segmentation on urban scene datasets. By leveraging **Python** and **Keras**, the model achieved pixel-level accuracy in identifying road lanes, vehicles, pedestrians, and other critical objects in urban environments. The project was instrumental in the development of autonomous driving systems, contributing to safer and more accurate navigation solutions.
 
-![Semantic Segmentation](/assets/img/semantic_segmentation.jpeg)
+![Semantic Segmentation](/assets/img/semantic_segmentation.jpg)
 
 ### Gesture Recognition for Human-Computer Interaction
 [Publication](https://www.kaggle.com)
@@ -51,7 +51,7 @@ Created a **CNN** model to recognize hand gestures from video input, using **Ope
 
 Developed a real-time face mask detection system using **YOLOv4** and **OpenCV**, identifying whether individuals were wearing masks in public spaces. This project was crucial during the COVID-19 pandemic, ensuring compliance with health and safety regulations. The system achieved an accuracy of 90% and was deployed in public transport stations and shopping centers.
 
-![Face Mask Detection](/assets/img/face_mask_detection.jpeg)
+![Face Mask Detection](/assets/img/face_mask_detection.png)
 
 ## Talks & Lectures
 
