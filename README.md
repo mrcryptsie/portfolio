@@ -19,11 +19,12 @@
 ## Projects
 
 ### Real-Time Image Processing Application with Gradio
+
 [Publication](https://github.com/mrcryptsie/)
 Developed an interactive image processing application using Python, Gradio, and image processing libraries such as PIL, NumPy, OpenCV, and skimage. The application allows users to upload images and apply various transformations like negative filters, image rotation, and image filters (blurring, sharpening, edge detection, etc.), as well as morphological transformations (erosion, dilation).
 
 Key features include contour detection using the Canny and Sobel algorithms, along with binarization, image resizing etc.... This project can be used for image analysis, computer vision data preparation, and rapid prototyping of imaging applications.
-![YOLOv5 Object Detection](/assets/img/yolo_object_detection.jpg)
+![YOLOv5 Object Detection](/assets/img/traitement.jpg)
 
 ### Real-Time Object Detection with YOLOv5
 [Publication](https://www.kaggle.com)
