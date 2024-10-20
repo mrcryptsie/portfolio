@@ -18,6 +18,27 @@
 
 ## Projects
 
+### DERMATO STUDIO - COMING SOON
+[Publication](https://huggingface.co/spaces/mrcryptsie/dermato-studio)
+
+---
+
+## Project Overview
+
+**DERMATO STUDIO** is an innovative web application designed for the early detection of skin diseases through the analysis of dermatoscopic images. By leveraging advanced deep learning techniques, this platform aims to assist users in identifying and segmenting skin abnormalities, thus improving access to dermatological diagnostics.
+
+### Objectives
+
+- **Image Upload:** Users can easily upload images of their skin lesions for analysis.
+- **Image Segmentation:** The application utilizes algorithms like U-Net to isolate and identify skin anomalies.
+- **Anomaly Analysis:** Detected anomalies are classified into categories such as melanoma, carcinoma, etc., using machine learning models.
+- **Diagnostic Report:** Users receive a comprehensive report detailing the analysis results and recommended actions.
+- **User-Friendly Interface:** The application features a simple and intuitive interface for seamless navigation.
+
+![YOLOv5 Object Detection](/assets/img/derm.jpg)
+
+
+
 ### Real-Time Image Processing Application with Gradio
 
 [Publication](https://huggingface.co/spaces/mrcryptsie/Photos-Studio)
