@@ -1,5 +1,12 @@
 # Machine Learning Engineer | Computer Vision | Natural Language Processing
 
+# Contact
+email: mailto:lucien.tito@example.com
+linkedin: https://www.linkedin.com/in/lucientito/
+upwork: https://www.upwork.com/freelancers/~lucientito
+WhatsApp: + 229 43 51 08 15
+Telephone: +229 62 02 74 28
+
 🌍Looking for Long-Term Collaboration in Machine Learning
 I am passionate about solving real-world problems using Machine Learning solutions and am seeking long-term opportunities to make a lasting impact through Machine Learning. Machine Learning, combined with Python and Deep Learning, is the key to transforming industries, and I am focused on leveraging its power to deliver innovative results. Whether it's improving existing processes or creating groundbreaking technologies, I aim to apply Machine Learning in every project I undertake. I specialize in developing Machine Learning models that solve complex problems, and I am dedicated to advancing Machine Learning techniques to improve the world around us.
 
