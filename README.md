@@ -1,5 +1,54 @@
 # Machine Learning Engineer | Computer Vision | Natural Language Processing
 
+🌍Looking for Long-Term Collaboration in Machine Learning
+I am passionate about solving real-world problems using Machine Learning solutions and am seeking long-term opportunities to make a lasting impact through Machine Learning. Machine Learning, combined with Python and Deep Learning, is the key to transforming industries, and I am focused on leveraging its power to deliver innovative results. Whether it's improving existing processes or creating groundbreaking technologies, I aim to apply Machine Learning in every project I undertake. I specialize in developing Machine Learning models that solve complex problems, and I am dedicated to advancing Machine Learning techniques to improve the world around us.
+
+🌍Over 2 Years of Expertise in Machine Learning
+My journey in Machine Learning spans over 2 years, specializing in Computer Vision 🖼️ and Natural Language Processing (NLP) 📝. During these 2 years, I have accumulated extensive experience with Machine Learning algorithms and developed a deep understanding of how Machine Learning can be applied across various domains. Through countless hands-on projects, I have strengthened my proficiency in Machine Learning and have become proficient in Computer Vision, NLP, and Time-Series Modeling. With Machine Learning at the core of my work, I continue to seek opportunities to grow my skill set, leveraging Python and Deep Learning frameworks like TensorFlow and PyTorch.
+
+🌍 Live Projects That Make a Difference
+
+🌍Product Detection on supermarket shelves using Machine Learning, enabling automated product recognition and inventory management.
+
+🛡️ Sharp Object Detection in X-ray images using Machine Learning, enhancing safety and security protocols in medical imaging.
+
+🌍 Various Image Classification Models, such as:
+
+🌍Indoor vs. Outdoor Spaces 🏠, leveraging Machine Learning to identify and classify environments.
+
+🌍Shoe Material Classification 👟, applying Machine Learning to recognize shoe materials based on image data.
+
+📚 Text Classification of diverse articles, using Natural Language Processing (NLP) and Machine Learning to categorize large volumes of text.
+
+📈 Stock Forecasting with LSTM models, using Machine Learning to predict stock trends by analyzing historical data and sentiment.
+
+🌍Certified in "Self-Driving Car Engineer" Nano Degree from Udacity 🚗💡
+This certification strengthened my understanding of Machine Learning in the context of autonomous vehicles, specifically Machine Learning for Computer Vision. With practical knowledge in Machine Learning, I have been able to implement cutting-edge algorithms for real-time Computer Vision applications in self-driving cars, using Python and Deep Learning frameworks.
+
+🌍Skills and Tools
+I bring hands-on experience in:
+
+🌍Machine Learning & Deep Learning, with a focus on Machine Learning algorithms that solve complex, real-world problems.
+
+🖼️ Computer Vision & Natural Language Processing (NLP), applying Machine Learning to interpret and process images and text data effectively.
+
+⏳ Time-Series Models for forecasting, leveraging Machine Learning to make accurate predictions based on historical data.
+
+🛠️ TensorFlow/Keras, PyTorch, and Scikit-learn for building, training, and deploying advanced Machine Learning models.
+
+⚡ Yolo for object detection, a powerful Machine Learning technique used for real-time applications in Computer Vision.
+
+🐍 Python, my primary programming language for implementing Machine Learning algorithms and building robust solutions.
+
+📦 Docker for containerization, ensuring smooth deployment and scalability of Machine Learning models across environments.
+
+☁️ AWS (EC2, ECR, SageMaker) & Google Cloud Platform for deploying and managing Machine Learning applications at scale in the cloud.
+
+🌍Deploying TFLite Models on Raspberry Pi with OpenCV, a project where Machine Learning is applied to edge computing devices.
+
+🌍Let’s collaborate to turn innovative Machine Learning ideas into reality! With my expertise in Machine Learning, Computer Vision, NLP, and tools like TensorFlow, PyTorch, OpenCV, and Python, we can bring your ideas to life and make a significant impact on the industry. 🌍
+
+
 #### Technical Skills: Python,  OpenCV, Machine Learning, Scikit-Learn, TensorFlow, PyTorch, YOLO, Machine Learning, Vision Large Models, Deep Learning, Image Processing, Object Detection, Convolutional Neural Networks (CNN).
 
 ## Education
