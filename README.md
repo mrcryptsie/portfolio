@@ -1,10 +1,11 @@
-# Data Scientist | Computer Vision Engineer
+# Machine Learning Engineer | Computer Vision | Natural Language Processing
 
-#### Technical Skills: Python,  OpenCV, TensorFlow, PyTorch, YOLO, Machine Learning, Vision Large Models, Deep Learning, Image Processing, Object Detection, Convolutional Neural Networks (CNN).
+#### Technical Skills: Python,  OpenCV, Machine Learning, Scikit-Learn, TensorFlow, PyTorch, YOLO, Machine Learning, Vision Large Models, Deep Learning, Image Processing, Object Detection, Convolutional Neural Networks (CNN).
 
 ## Education
 - B.S., Artificial Intelligence | University of Abomey-Calavi (_December 2025_)  
-- Specialization in Data Science | Africa Techup Tour (_September 2024_)  
+- Specialization in Data Science | Africa Techup Tour (_September 2024_)
+- Specialization in Computer Vision | WorldQuant University (_December 2025_)
 - Specialization in Computer Vision | Coursera (_August 2024_)
 
 ## Work Experience
@@ -82,6 +83,61 @@ Created a **CNN** model to recognize hand gestures from video input, using **Ope
 Developed a real-time face mask detection system using **YOLOv4** and **OpenCV**, identifying whether individuals were wearing masks in public spaces. This project was crucial during the COVID-19 pandemic, ensuring compliance with health and safety regulations. The system achieved an accuracy of 90% and was deployed in public transport stations and shopping centers.
 
 ![Face Mask Detection](/assets/img/face_mask_detection.png)
+
+
+### Prediction Cervical Cancer With Machine Learning
+[Publication](https://github.com/mrcryptsie/Prediction_Cervical_Cancer_With_Machine_Learning/blob/master/Cervical_Cancer_Prediction_With_ML.ipynb)
+
+Cervical cancer prediction using machine learning empowers healthcare systems with tools for early detection and preventive care. By analyzing medical data and risk factors, this approach identifies patterns that predict the likelihood of cervical cancer. Machine learning algorithms can enhance diagnostic accuracy and support personalized treatment plans. This project focuses on applying predictive models to cervical cancer datasets, offering insights into healthcare innovations and the transformative role of AI in improving patient outcomes.
+
+![Cervical Cancer Prediction](#)
+
+
+### Credit Score Classification Helps Financial Institutions
+[Publication](https://github.com/mrcryptsie/Classification_cote_credit_et_app/)
+
+Credit score classification helps financial institutions and credit card companies assess an individual's creditworthiness, enabling quick loan approval decisions. Leveraging machine learning algorithms, banks categorize clients based on their credit history, ensuring accurate credit risk assessment. This project provides a step-by-step guide to implementing credit score classification using Python, offering insights into applying data science techniques for financial decision-making and customer segmentation.
+
+![Credit Score Classification](#)
+
+
+### Email Classification Using NLP
+[Publication](https://spamclassifier-gykr6jx279xxhfaz6kdd9e.streamlit.app/)
+
+Email Classification leverages natural language processing (NLP) and machine learning techniques to categorize emails into predefined classes such as spam, promotions, or important messages. This system improves email organization and productivity by analyzing text content and metadata to provide accurate and efficient classification. It is widely applicable in email management, customer service automation, and cybersecurity, ensuring better filtering and prioritization of email communication.
+
+![Email Classification](#)
+
+
+### Emotion Recognition from Speech
+[Publication](https://github.com/mrcryptsie/Emotion-Recognition-from-Speech)
+
+Emotion-Recognition-from-Speech uses deep learning and advanced speech processing techniques to analyze audio data and classify spoken sentences into distinct emotions such as happiness, anger, or sadness. This innovative model aims to enhance applications in customer service, mental health analysis, and interactive AI systems by providing accurate emotion detection from speech. It combines cutting-edge neural networks with audio feature extraction for reliable and scalable emotion classification.
+
+![Emotion Recognition from Speech](#)
+
+
+### Heart Disease Predictions
+[Publication](https://github.com/mrcryptsie/Heart_Disease_Predictions)
+
+Heart Disease Predictions leverages advanced machine learning algorithms to analyze patient data and predict the likelihood of heart disease. This tool aims to assist healthcare professionals in early diagnosis, improving treatment outcomes, and reducing risks. By processing data like blood pressure, cholesterol levels, and other vital metrics, the system provides accurate predictions, helping to guide informed medical decisions.
+
+![Heart Disease Predictions](#)
+
+
+### Streaming-Based Platform for Personalized Recommendations
+[Publication](https://github.com/mrcryptsie/api-vectors-search-afrilix)
+
+This project showcases the development of a streaming-based platform that delivers personalized recommendations in real time. Built with advanced technologies such as Flask, ChromaDB, and Python, the platform integrates dynamic recommendation capabilities powered by Machine Learning.
+
+**Key Features:**
+- **Real-Time Content Recommendations:** Uses Machine Learning to suggest personalized content based on user behavior and preferences.
+- **Efficient Data Handling with ChromaDB:** Manages metadata-rich documents for efficient storage and retrieval, enabling a smooth query experience.
+
+![Personalized Recommendations](#)
+
+
+
 
 ## Talks & Lectures
 
